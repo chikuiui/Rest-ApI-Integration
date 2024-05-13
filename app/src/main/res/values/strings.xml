@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="body">Body</string>
+    <string name="get_all_posts">Get All Posts</string>
+    <string name="get_single_post">Get Single Post</string>
+    <string name="comments_of_post_without_query">Comments of Post without Query</string>
+    <string name="comments_of_post_with_query">Comments of Post With Query</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
